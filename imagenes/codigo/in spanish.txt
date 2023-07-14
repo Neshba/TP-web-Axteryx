@@ -1,0 +1,7 @@
+		<h2 class=" text">Que es una pagina web?</h2>
+		<p class=" text">Una pagina web es un portal a un mundo nuevo de posibilidades, desde Axterix pensamos que mas alla de temas como el diseño, las funcionalidades y la implementacion de nuevas tecnologias, nuestra funcion es darle a nuetros clientes una pagina web que destaque por encima de las demas y que refleje la identidad del negocio, explotando al maximo los intereces del mismo. </p>
+
+			Por que nosotros?</h2>	
+		<p class=" text">Creemos que nuestros diseños imnovadores e ideas originales, siempre teniendo en cuenta el gusto de nustros clientes, hacen la diferencia en el resultado final y la marca personalizada que imprimimos con cada uno de ellos. Estamos dirigidos prinipalmente a quellos que quieran diferenciarse del resto y poder exaltarse por encima de la mayoria.</p>
+		
+		
