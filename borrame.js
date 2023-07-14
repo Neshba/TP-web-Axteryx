@@ -1,0 +1,1 @@
+alert math.max(6,8);
